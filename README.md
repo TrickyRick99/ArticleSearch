@@ -17,7 +17,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.ibb.co/QD6zQ4h/Article-Search-Part2-Test.gif" alt="Article-Search-Part2-Test" border="0">
+<img src="https://i.ibb.co/kqbP29n/Article-Search-Test-Part2.gif" alt="Article-Search-Test-Part2" border="0">
 
 
 ## Notes
